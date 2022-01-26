@@ -1,2 +1,41 @@
+
+@import url('/styles/normalize.css');
 @import url("../../styles/style.css");
 @import url("./header/header.css");
+@import url("./footer/footer.css");
+@import url("./description/description.css");
+@import url("./techniques/techniques.css");
+@import url("../page/page.css");
+@import url("./section-title/section-title.css");
+@import url("./section-subtitle/section-subtitle.css");
+@import url("./feynman/feynman.css");
+@import url("./techniques/techniques.css");
+@import url("./video/video.css");
+@font-face{
+    src: url('/vendor/fonts/Inter-Bold.woff');
+    font-family: 'Inter-Bold.woff';
+    font-weight: bold;
+  }
+  @font-face{
+    src: url('/vendor/fonts/Inter-Bold.woff2');
+    font-family: 'Inter-Bold.woff2';
+    font-weight: bold;
+  }
+  @font-face{
+    src: url('/vendor/fonts/Inter-Regular.woff');
+    font-family: 'Inter-Regular.woff';
+    }
+  @font-face{
+    src: url('/vendor/fonts/Inter-Regular.woff2');
+    font-family: 'Inter-Regular.woff2';
+    }
+  @font-face{
+    src: url('/vendor/fonts/Inter-SemiBold.woff');
+    font-family: 'Inter-SemiBold.woff';
+    font-weight: 600;
+  }
+  @font-face{
+    src: url('/vendor/fonts/Inter-SemiBold.woff2');
+    font-family: 'Inter-SemiBold.woff2';
+    font-weight: 600;
+  }
