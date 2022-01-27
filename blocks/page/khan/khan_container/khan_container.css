@@ -1,0 +1,10 @@
+@import url("./__author/khan_container__author.css");
+@import url("./__quote/khan_container__quote.css");
+@import url("./__quote-author/khan_container__quote-author.css");
+@import url("./__quote-author-subline/khan_container__quote-author-subline.css");
+@import url("./__title/khan_container_title.css");
+
+.khan_container{
+    width: 80%;
+    margin: auto;
+    }

@@ -1,6 +1,5 @@
 
 @import url('/styles/normalize.css');
-@import url("../../styles/style.css");
 @import url("./header/header.css");
 @import url("./footer/footer.css");
 @import url("./description/description.css");
@@ -11,6 +10,10 @@
 @import url("./feynman/feynman.css");
 @import url("./techniques/techniques.css");
 @import url("./video/video.css");
+@import url("./resourses/resourses.css");
+@import url("./khan/khan.css");
+@import url("./digits/digits.css");
+@import url("./kaufman/kaufman.css");
 @font-face{
     src: url('/vendor/fonts/Inter-Bold.woff');
     font-family: 'Inter-Bold.woff';

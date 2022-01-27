@@ -1,0 +1,19 @@
+@import url("../section-title/section-title.css");
+@import url("../section-subtitle/section-subtitle.css");
+@import url("./section-title/section-title_dark.css");
+@import url("./section-subtitle/section-subtitle_dark.css");
+@import url("./table-cell/table-cell_dark.css");
+@import url("./__triangle/kaufman__triangle.css");
+@import url("./rotation/rotation.css");
+.kaufman{
+    padding-top: 90px;
+    padding-bottom: 90px;
+    overflow:hidden;
+    background-color: black;
+    position: relative;
+    z-index: 3;
+      }
+      
+    
+      
+      

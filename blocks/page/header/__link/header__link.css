@@ -1,0 +1,9 @@
+.header__link{
+    line-height: 25px;
+    font-size: 18px;
+    font-weight:normal;
+}
+.header__link:hover{
+   opacity: 50%;
+   transition-duration: 1s;
+}

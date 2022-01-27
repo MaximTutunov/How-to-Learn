@@ -7,7 +7,7 @@
     height: 890px;
     position: relative;
         }
-.feynman_link{
+.feynman__link{
  position:absolute;
  margin-top: 50vh;       
  right: 48px;
@@ -15,3 +15,7 @@
         font-size: 36px;
         font-weight: normal;
     } 
+    .feynman__link:hover{
+        opacity: 50%;
+    transition-duration: 1s;  
+ } 
