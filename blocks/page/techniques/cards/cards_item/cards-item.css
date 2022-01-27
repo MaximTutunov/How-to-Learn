@@ -1,11 +1,11 @@
 @import url("../cards_item/__description/cards_item__description.css");
 @import url("../cards_item/__image/cards_item__image.css");
 @import url("../cards_item/__title/cards_item__title.css");
-.cards_item{
+.cards-item{
   width: 240px;
   margin-right: 100px;
   text-align:center;
     }
-  .cards_item:nth-child(3n){
+  .cards-item:nth-child(3n){
     margin-right: 0;
   }  
