@@ -1,4 +1,4 @@
-.column__links{
+.footer__links{
     display: flex;
     flex-direction: column;
     padding-top: 20px;
@@ -6,4 +6,4 @@
     line-height: 18px;
     font-size: 18px;
     font-weight:normal;
-    }
+        }

@@ -2,6 +2,8 @@
     line-height: 25px;
     font-size: 18px;
     font-weight:normal;
+    color: blue;
+        text-decoration: none;
 }
 .header__link:hover{
    opacity: 50%;

@@ -3,6 +3,8 @@
     font-size: 30px;
     font-weight: normal;
     margin-left: 48px;
+    text-decoration: none;
+    color:blue;
   }
   .buy-link:hover{
     opacity: 50%;

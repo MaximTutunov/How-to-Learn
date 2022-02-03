@@ -1,20 +1,12 @@
+@import url("../../rotation/rotation.css");
 .header__square-pic{
     z-index:-1;
     position:absolute;
     overflow: hidden;
     height: 568px;
     width: 568px;
-    background-color: blue;
+    background-color: #2f80ed;
     right: 0px;
-    top: 64px;
-    animation: sq-rotation 20s infinite linear;
-  }
-  
-  @keyframes sq-rotation {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
+    top: 64px;}
+   
+ 

@@ -1,6 +1,7 @@
+@import url("../../rotation/rotation.css");
 .kaufman__triangle{
     background-image: url("../../../../images/triangle.svg");
-    color: blue;
+    color: #2f80ed;
     position: absolute;
     right: -210px;
     width: 995px; 
