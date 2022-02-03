@@ -1,0 +1,10 @@
+
+.kaufman__triangle{
+    background-image: url("../../../images/triangle.svg");
+    color: #2f80ed;
+    position: absolute;
+    right: -210px;
+    width: 995px; 
+    height: 1006px;
+    z-index: -1;
+}

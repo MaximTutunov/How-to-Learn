@@ -1,0 +1,24 @@
+
+
+.feynman{
+    display:flex;
+    flex-direction: column;
+    min-height: 890px;
+    position: relative;
+    background-color: #f2f2f2;
+    }
+.feynman__link{
+ position:absolute;
+ margin-top: 50vh;       
+ right: 48px;
+        line-height: 51px;
+        font-size: 36px;
+        font-weight: normal;
+        color: blue;
+        text-decoration: none;
+
+    } 
+    .feynman__link:hover{
+        opacity: 50%;
+    transition-duration: 1s;  
+ } 
