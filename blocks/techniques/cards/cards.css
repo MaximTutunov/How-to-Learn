@@ -1,8 +1,7 @@
-
-.cards{
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-    width: 920px;
-    margin: auto;
-  }
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 920px;
+  margin: auto;
+}
