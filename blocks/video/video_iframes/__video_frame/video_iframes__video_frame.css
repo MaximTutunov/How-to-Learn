@@ -1,8 +1,0 @@
-.video__frame {
-  width: 515px;
-  height: 316px;
-  border: 0;
-}
-.video__frame:nth-child(1n) {
-  margin-right: 20px;
-}
